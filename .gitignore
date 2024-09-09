@@ -1,0 +1,49 @@
+# Build Folders
+bin/
+obj/
+
+# User-Specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vs/
+.vscode/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Entity Framework Core Migrations
+Migrations/
+
+# SQLite Database
+*.db
+*.sqlite
+*.sqlite3
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Environment Variables
+.env
+
+# Rider/JetBrains IDE
+.idea/
+*.sln.iml
+
+# Mac OS
+.DS_Store
+
+# Windows Thumbs
+Thumbs.db
+
+# Linux File System
+*~
